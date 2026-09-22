@@ -1,0 +1,43 @@
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply bg-fundo font-jakarta text-corpo text-texto antialiased;
+}
+
+/* Respeita o notch / safe areas em celulares */
+.pt-safe {
+  padding-top: env(safe-area-inset-top);
+}
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* Esconde a barra de rolagem das fileiras de chips sem perder o scroll */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* O container do Leaflet precisa de altura explícita */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #e8efe9;
+  font-family: inherit;
+}
+
+.pin-abrigo {
+  background: transparent;
+  border: none;
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "navegantes",
+    "nome": "Navegantes",
+    "cota": 5.39,
+    "risco": "alto",
+    "lat": -26.2225,
+    "lng": -51.0815,
+    "obs": "Região baixa, vulnerável à elevação rápida do nível do rio."
+  },
+  {
+    "id": "sao-bernardo",
+    "nome": "São Bernardo",
+    "cota": 5.39,
+    "risco": "alto",
+    "lat": -26.215,
+    "lng": -51.09,
+    "obs": "Área próxima ao leito e meandros do rio, sujeita a inundações periódicas."
+  },
+  {
+    "id": "ponte-nova",
+    "nome": "Ponte Nova",
+    "cota": 5.39,
+    "risco": "alto",
+    "lat": -26.235,
+    "lng": -51.105
+  },
+  {
+    "id": "rocio",
+    "nome": "Nossa Senhora do Rocio",
+    "cota": 5.26,
+    "risco": "alto",
+    "lat": -26.2405,
+    "lng": -51.079,
+    "obs": "Localidade ribeirinha com histórico recorrente de invasão de águas nas cheias."
+  },
+  {
+    "id": "sao-basilio",
+    "nome": "São Basílio Magno",
+    "cota": 5.2,
+    "risco": "alto",
+    "lat": -26.221,
+    "lng": -51.07
+  },
+  {
+    "id": "rio-dareia",
+    "nome": "Rio D'Areia",
+    "cota": 5.08,
+    "risco": "alto",
+    "lat": -26.21,
+    "lng": -51.065
+  },
+  {
+    "id": "santa-rosa",
+    "nome": "Santa Rosa",
+    "cota": 5.0,
+    "risco": "alto",
+    "lat": -26.2455,
+    "lng": -51.072,
+    "obs": "Apontado como um dos pontos mais críticos da cidade, severamente atingido em grandes cheias."
+  },
+  {
+    "id": "cidade-jardim",
+    "nome": "Cidade Jardim",
+    "cota": 4.67,
+    "risco": "alto",
+    "lat": -26.245,
+    "lng": -51.095
+  },
+  {
+    "id": "cristo-rei",
+    "nome": "Cristo Rei",
+    "cota": 6.42,
+    "risco": "medio",
+    "lat": -26.238,
+    "lng": -51.07
+  },
+  {
+    "id": "limeira",
+    "nome": "Limeira",
+    "cota": 6.39,
+    "risco": "medio",
+    "lat": -26.25,
+    "lng": -51.065
+  },
+  {
+    "id": "sao-gabriel",
+    "nome": "São Gabriel",
+    "cota": 6.39,
+    "risco": "medio",
+    "lat": -26.205,
+    "lng": -51.085
+  },
+  {
+    "id": "bom-jesus",
+    "nome": "Bom Jesus",
+    "cota": 6.39,
+    "risco": "medio",
+    "lat": -26.232,
+    "lng": -51.062
+  },
+  {
+    "id": "bento-munhoz",
+    "nome": "Bento Munhoz da Rocha",
+    "cota": 6.31,
+    "risco": "medio",
+    "lat": -26.244,
+    "lng": -51.085
+  },
+  {
+    "id": "sao-joaquim",
+    "nome": "São Joaquim",
+    "cota": 5.54,
+    "risco": "medio",
+    "lat": -26.218,
+    "lng": -51.1
+  },
+  {
+    "id": "sagrada-familia",
+    "nome": "Sagrada Família",
+    "cota": 5.45,
+    "risco": "medio",
+    "lat": -26.226,
+    "lng": -51.11
+  },
+  {
+    "id": "panorama",
+    "nome": "Panorama",
+    "cota": 8.84,
+    "risco": "baixo",
+    "lat": -26.252,
+    "lng": -51.105
+  },
+  {
+    "id": "salete",
+    "nome": "Nossa Senhora da Salete",
+    "cota": 8.39,
+    "risco": "baixo",
+    "lat": -26.24,
+    "lng": -51.115
+  },
+  {
+    "id": "centro",
+    "nome": "Centro",
+    "cota": 7.39,
+    "risco": "baixo",
+    "lat": -26.2286,
+    "lng": -51.0865
+  }
+]

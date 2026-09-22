@@ -1,0 +1,76 @@
+[
+  {
+    "id": "paroquia-sao-cristovao",
+    "nome": "Paróquia São Cristóvão",
+    "endereco": "Rua Prudente de Moraes - Centro",
+    "distanciaKm": 0.9,
+    "lat": -26.2287,
+    "lng": -51.0893,
+    "status": "servindo",
+    "statusTexto": "Servindo",
+    "refeicoes": [
+      { "nome": "Almoço", "horario": "11h30 - 13h30" },
+      { "nome": "Jantar", "horario": "18h - 20h" }
+    ],
+    "badges": ["Refeição pronta", "Água potável", "Cesta básica"],
+    "doacoes": {
+      "horario": "Recebe doações das 8h às 19h",
+      "situacao": "falta-muito",
+      "situacaoTexto": "Falta muito",
+      "itens": [
+        { "nome": "Água mineral", "atual": 120, "meta": 500, "unidade": "litros" },
+        { "nome": "Cestas básicas", "atual": 38, "meta": 80, "unidade": "" },
+        { "nome": "Produtos de higiene", "atual": 70, "meta": 90, "unidade": "" }
+      ]
+    }
+  },
+  {
+    "id": "ginasio-benedito-albino",
+    "nome": "Ginásio Benedito Albino",
+    "endereco": "Rua Cel. Amazonas, 400 - Centro",
+    "distanciaKm": 1.8,
+    "lat": -26.2265,
+    "lng": -51.0921,
+    "status": "abre",
+    "statusTexto": "Abre 12h",
+    "refeicoes": [
+      { "nome": "Café da manhã", "horario": "7h - 8h30" },
+      { "nome": "Almoço", "horario": "12h - 14h" }
+    ],
+    "badges": ["Refeição pronta", "Água potável"],
+    "doacoes": {
+      "horario": "Recebe doações das 7h às 21h",
+      "situacao": "quase-completo",
+      "situacaoTexto": "Quase completo",
+      "itens": [
+        { "nome": "Cobertores", "atual": 150, "meta": 180, "unidade": "" },
+        { "nome": "Ração para animais", "atual": 12, "meta": 60, "unidade": "kg" }
+      ]
+    }
+  },
+  {
+    "id": "salao-comunitario-navegantes",
+    "nome": "Salão Comunitário Navegantes",
+    "endereco": "Rua das Palmeiras - Navegantes",
+    "distanciaKm": 1.2,
+    "lat": -26.2242,
+    "lng": -51.0837,
+    "status": "servindo",
+    "statusTexto": "Servindo",
+    "refeicoes": [
+      { "nome": "Almoço", "horario": "11h - 13h" },
+      { "nome": "Café da tarde", "horario": "15h30 - 16h30" }
+    ],
+    "badges": ["Refeição pronta", "Cesta básica"],
+    "doacoes": {
+      "horario": "Recebe doações das 9h às 18h",
+      "situacao": "falta-muito",
+      "situacaoTexto": "Falta muito",
+      "itens": [
+        { "nome": "Água mineral", "atual": 60, "meta": 300, "unidade": "litros" },
+        { "nome": "Cestas básicas", "atual": 12, "meta": 50, "unidade": "" },
+        { "nome": "Cobertores", "atual": 34, "meta": 100, "unidade": "" }
+      ]
+    }
+  }
+]
