@@ -43,8 +43,3 @@ Truques de demonstração:
 - `/abrigos?demo=vazio` mostra o estado "Nenhum abrigo aberto".
 - Ficar sem internet (ou simular offline no DevTools) ativa o banner
   "Sem conexão" e a tela inicial offline com os telefones de emergência.
-
-## Deploy (Vercel)
-
-Projeto Vite padrão: importe o repositório na Vercel (framework "Vite",
-build `npm run build`, saída `dist/`) ou rode `npx vercel` na raiz.
